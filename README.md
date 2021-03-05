@@ -1,8 +1,8 @@
-### Hello there, I'm Alex Dien! 👋
+### Hello world, I'm Alex Dien! 👋
 
 
-- 🔭 I’m currently working on Calculator using Node and Express.
-- 🌱 I’m currently learning Backend Development.
+- 🔭 I’m currently studying to get my AWS certifications.
+- 🌱 I’m currently learning Front end development.
 - 👯 I’m looking to connect on LinkedIn
 - 📫 How to reach me: Email: dien.alex1@gmail.com
 - ⚡ Fun fact: I love craft beer!
