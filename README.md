@@ -1,9 +1,9 @@
 ### Hello world, I'm Alex Dien! 👋
 
 
-- 🔭 I’m currently studying to get my AWS certifications
-- 🌱 I’m currently learning Front end development
-- 👯 I’m looking to connect on LinkedIn
+- 🔭 Software Engineer Intern
+- 🌱 I’m currently learning TypeScript, React JS, Angular, & Spring Boot
+- 👯 Connect with me on LinkedIn! https://www.linkedin.com/in/alexdien/
 - 📫 How to reach me: Email: dien.alex1@gmail.com
 - ⚡ Fun fact: I love craft beer!
 -->
