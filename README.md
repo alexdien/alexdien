@@ -1,8 +1,7 @@
-### Hello world, I'm Alex Dien! 👋
+### Hello world, I'm Alex 👋
 
 
-- 🔭 Software Engineer Intern
-- 🌱 I’m currently developing with React JS, Angular, & Spring Boot
+- 🔭 Software Engineer Intern at Velvet
 - 👯 Connect with me on LinkedIn! https://www.linkedin.com/in/alexdien/
 - 📫 How to reach me: Email: dien.alex1@gmail.com
 - ⚡ Fun fact: I love craft beer!
